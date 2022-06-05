@@ -6,7 +6,7 @@ This project is implemented using Go. If Go is not yet installed, please downloa
 
 ### Run server
 ```bash
-go run server.go
+go run main.go
 ```
 
 ### Commands
