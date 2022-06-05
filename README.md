@@ -10,7 +10,7 @@ go run server.go
 ```
 
 ### Commands
-Allowed commands are `DUMP`, `SET`, `RENAME`, `HELP` and used in like below :
+Allowed commands are `DUMP`, `SET`, `RENAME`, `HELP` and used like below :
 ```bash 
 DUMP <key>
 SET <key> <value>
